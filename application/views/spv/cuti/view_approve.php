@@ -67,8 +67,7 @@
 
                     </td>
                     <td>
-                      <a href="<?php echo site_url("spv/cuti/status_approve/" . $r->id_cuti_reguler); ?>" onclick=" return confirm('Yakin Approve Cuti Karyawan???')" class="btn btn-primary btn-xs" ><i class="glyphicon glyphicon-pencil
-                        "> Approve </i></a> 
+                       
                     </td>
                   </tr>
               <?php $no++; } ?>
